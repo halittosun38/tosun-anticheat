@@ -15,7 +15,9 @@
 ## Bağlantılar / Links
 
 🌐 Resmi Web Sitesi / Official Website: **[tosundev.com](https://tosundev.com)**  
-📖 Dokümantasyon / Documentation: [Tosun Anticheat Docs](https://tosundev.com/docs)
+📖 Dokümantasyon / Documentation: [Tosun Anticheat Docs](https://tosundev.com/docs)  
+📘 GitBook Dokümantasyonu: [tosun.gitbook.io/tosun-anticheat](https://tosun.gitbook.io/tosun-anticheat)  
+📂 Depo içi dokümanlar: [docs/](docs/)
 
 ---
 
